@@ -1,0 +1,307 @@
+
+
+#cover-page{
+    background-color: #f4a384;
+    width: 85%;
+    margin: auto;
+    outline-color: black;
+    outline-style:solid;
+    outline-offset: 5px;
+    height: 500px;
+    display: flex;
+    margin-top: 30px;
+}
+
+#cover-page-designs{
+    display: flex;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+#main-heading{
+    margin-left: 500px;
+    font-size: 4rem;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+#products-heading{
+    background-color:#7e8f5d;
+    padding: 0;
+    width: 350px;
+    height: 75px;
+    color: white;
+    margin: auto;
+    margin-top: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:2rem ;
+}
+
+#illustrations-section{
+    display: flex;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+#bundles-heading{
+    background-color:#7e8f5d;
+    padding: 0;
+    width: 250px;
+    height: 75px;
+    color: white;
+    margin: auto;
+    margin-top: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:2rem ;
+}
+
+#about-us-heading{
+    padding: 10px;
+    width: 500px;
+    height: 100px;
+    margin: auto;
+    margin-top: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:2.75rem ;
+    margin-bottom: 50px;
+}
+
+#mission-and-vision-section{
+    display: flex;
+}
+
+#products{
+    display: flex;
+    margin-top: 50px;
+}
+
+#about-us-content{
+    display: flex;
+    margin-bottom: 100px;
+}
+
+#bundles{
+    display: flex;
+    margin-top: 50px;
+}
+
+#about-us-image{
+    margin-left: 125px;
+}
+
+.main-section{
+    background-image: image(images/cover-page-design-1.png);
+}
+
+.first-illustration{
+    margin-left: 200px;
+}
+
+.second-illustration{
+    margin-left: 150px;
+}
+
+.third-illustration{
+    margin-left: 150px;
+}
+
+.first-product{
+    margin-left: 175px;
+}
+
+.first-bundle{
+    margin-left: 150px;
+}
+
+.second-bundle{
+    margin-left: 100px;
+}
+
+.second-product{
+    margin-right: 30px;
+    margin-left: 150px;
+}
+
+.third-product{
+    margin-left: 100px;
+}
+
+.buttons{
+    display: flex;
+}
+
+.headingpluslogo{
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.lato-light {
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+
+  .pt-sans-bold {
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+  .pt-sans-narrow-bold {
+    font-family: "PT Sans Narrow", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+  .merriweather-regular {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .merriweather-bold {
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+  .roboto-bold-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+
+  .poetsen-one-regular {
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }  
+
+
+#cover-page-image{
+    margin-left: 0;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+.italic-heading{
+    font-style: italic;
+}
+
+
+#contact-button{
+    border-radius: 25px;
+    background-color:#f4a384;
+    padding: 20px;
+    width: 200px;
+    height: 30px;
+    color: black;
+    margin: auto;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+}
+
+#disclaimer-section{
+    margin-top: 50px;
+    background-color: #f4a384;
+}
+
+.first-menu-button, .second-menu-button, .third-menu-button, .fourth-menu-button{
+
+
+    border-radius: 25px;
+    background-color: #7e8f5d;
+    padding: 10px;
+    width: 200px;
+    height: 30px;
+    color: black;
+    margin: auto;
+    margin-left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+}
+
+.preorder-button{
+    border-radius: 25px;
+    background-color:#7e8f5d;
+    padding: 10px;
+    width: 200px;
+    height: 30px;
+    color: #f4a384;
+    margin: auto;
+    margin-left: 500px;
+    margin-top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mission-heading, .vision-heading{
+    background-color:#f4a384;
+    padding: 0;
+    width: 250px;
+    height: 75px;
+    color: white;
+    margin: auto;
+    margin-top: 75px;
+    margin-bottom: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:3rem;   
+}
+
+.mission-section{
+    margin-left: 150px;
+    margin-bottom: 50px;
+}
+
+.vision-section{
+    margin-left: 10px;
+    margin-bottom: 50px;
+}
+
+.first-menu-button{
+    margin-left: 150px;
+}
+
+.brandlogo{
+    width: 100px;
+    margin-left: 20px;
+    height: 130px;
+}
+
+
+
+body{
+    background-color: #e7dfd8;
+    text-align: center;
+}
+
+h1{
+    font-size: 3rem;
+}
+
+p{
+    margin-left: 50px;
+    margin-right: 40px;
+    padding: 15px;
+    font-size: 1.75rem;
+}
+
+
+
